@@ -1,4 +1,4 @@
-# Syntheitic Icelandic dataset for NER anonymization task
+# Synthetic Icelandic dataset for NER anonymization task
 
 This is a dataset of **synthetic** Icelandic messages from patients to clinics.
 
